@@ -1,0 +1,15 @@
+C:\IntroC#\bin\Debug\net6.0\IntroC#.exe
+C:\IntroC#\bin\Debug\net6.0\IntroC#.deps.json
+C:\IntroC#\bin\Debug\net6.0\IntroC#.runtimeconfig.json
+C:\IntroC#\bin\Debug\net6.0\IntroC#.dll
+C:\IntroC#\bin\Debug\net6.0\ref\IntroC#.dll
+C:\IntroC#\bin\Debug\net6.0\IntroC#.pdb
+C:\IntroC#\obj\Debug\net6.0\IntroC#.csproj.AssemblyReference.cache
+C:\IntroC#\obj\Debug\net6.0\IntroC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\IntroC#\obj\Debug\net6.0\IntroC#.AssemblyInfoInputs.cache
+C:\IntroC#\obj\Debug\net6.0\IntroC#.AssemblyInfo.cs
+C:\IntroC#\obj\Debug\net6.0\IntroC#.csproj.CoreCompileInputs.cache
+C:\IntroC#\obj\Debug\net6.0\IntroC#.dll
+C:\IntroC#\obj\Debug\net6.0\ref\IntroC#.dll
+C:\IntroC#\obj\Debug\net6.0\IntroC#.pdb
+C:\IntroC#\obj\Debug\net6.0\IntroC#.genruntimeconfig.cache
